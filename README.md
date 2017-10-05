@@ -17,6 +17,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/index.html <br>
 https://www.jetbrains.com/idea/ <br>
 https://maven.apache.org/ <br>
 http://mvnrepository.com/ <br>
+https://gradle.org/ <br>
 https://spring.io/ <br>
 https://start.spring.io/ <br>
 http://junit.org/junit5/ <br>
