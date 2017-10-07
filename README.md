@@ -6,6 +6,8 @@
 [GCC](https://gcc.gnu.org/) <br>
 [GDB](https://www.gnu.org/software/gdb/) <br>
 [CMake](https://cmake.org/) <br>
+[PVS-Studio static code analyzer](https://www.viva64.com/en/pvs-studio/) <br>
+[Orbit C/C++ Performance Profiler](https://github.com/pierricgimmig/orbitprofiler) <br>
 [C++ Standard](https://isocpp.org/std/the-standard) <br>
 [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) <br>
 [C++ Core Guidelines checker](https://msdn.microsoft.com/en-us/library/mt762841.aspx) <br>
