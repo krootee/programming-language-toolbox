@@ -40,3 +40,9 @@ https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/ <br>
 [Python](https://www.python.org/) <br>
 [Anaconda](https://www.anaconda.com/) <br>
 [PyCharm](https://www.jetbrains.com/pycharm/) <br>
+
+# Merge and diff tools #
+[Araxis Merge](https://www.araxis.com/merge/) <br>
+[Beyond Compare](http://scootersoftware.com/) <br>
+[SourceTree](https://www.sourcetreeapp.com/) <br>
+[WinMerge](http://winmerge.org/) <br>
