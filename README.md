@@ -49,6 +49,7 @@ https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/ <br>
 [zap logging](https://github.com/uber-go/zap) <br>
 [logrus logging](https://github.com/sirupsen/logrus) <br>
 [dns](https://github.com/miekg/dns) <br>
+[awesome go list](https://awesome-go.com/) <br>
 
 # Merge and diff tools #
 [Araxis Merge](https://www.araxis.com/merge/) <br>
