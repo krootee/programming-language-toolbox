@@ -43,6 +43,11 @@ https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/ <br>
 [Anaconda](https://www.anaconda.com/) <br>
 [PyCharm](https://www.jetbrains.com/pycharm/) <br>
 
+# Go #
+[gRPC middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) <br>
+[zap logging](https://github.com/uber-go/zap) <br>
+[logrus logging](https://github.com/sirupsen/logrus) <br>
+
 # Merge and diff tools #
 [Araxis Merge](https://www.araxis.com/merge/) <br>
 [Beyond Compare](http://scootersoftware.com/) <br>
