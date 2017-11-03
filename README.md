@@ -45,6 +45,7 @@ https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/ <br>
 
 # Go #
 [gRPC middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) <br>
+[gogo protobuf](https://github.com/gogo/protobuf) <br>
 [zap logging](https://github.com/uber-go/zap) <br>
 [logrus logging](https://github.com/sirupsen/logrus) <br>
 [dns](https://github.com/miekg/dns) <br>
