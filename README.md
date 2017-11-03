@@ -47,6 +47,7 @@ https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/ <br>
 [gRPC middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) <br>
 [zap logging](https://github.com/uber-go/zap) <br>
 [logrus logging](https://github.com/sirupsen/logrus) <br>
+[dns](https://github.com/miekg/dns) <br>
 
 # Merge and diff tools #
 [Araxis Merge](https://www.araxis.com/merge/) <br>
