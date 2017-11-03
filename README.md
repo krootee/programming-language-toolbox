@@ -42,6 +42,7 @@ https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/ <br>
 [Python](https://www.python.org/) <br>
 [Anaconda](https://www.anaconda.com/) <br>
 [PyCharm](https://www.jetbrains.com/pycharm/) <br>
+[Awesome Python list](https://awesome-python.com/) <br>
 
 # Go #
 [gRPC middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) <br>
