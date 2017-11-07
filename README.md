@@ -45,6 +45,7 @@ https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/ <br>
 [Awesome Python list](https://awesome-python.com/) <br>
 
 # Go #
+[Virtualgo](https://github.com/getstream/vg) <br>
 [gRPC middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) <br>
 [gogo protobuf](https://github.com/gogo/protobuf) <br>
 [zap logging](https://github.com/uber-go/zap) <br>
