@@ -30,6 +30,7 @@
 [Mockito](http://site.mockito.org/) <br>
 [AssertJ](https://joel-costigliola.github.io/assertj/index.html) <br>
 [SonarQube](https://www.sonarqube.org/) <br>
+[RacerD finds data races in your Java code](http://fbinfer.com/docs/racerd.html) <br>
 https://github.com/google/guava <br>
 https://projectlombok.org/ <br>
 https://github.com/resilience4j/resilience4j <br>
