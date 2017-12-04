@@ -55,6 +55,7 @@ https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/ <br>
 [dns](https://github.com/miekg/dns) <br>
 [tenta-dns](https://github.com/tenta-browser/tenta-dns) <br>
 [awesome go list](https://awesome-go.com/) <br>
+[interactive prompt](https://github.com/manifoldco/promptui) <br>
 
 # Merge and diff tools #
 [Araxis Merge](https://www.araxis.com/merge/) <br>
