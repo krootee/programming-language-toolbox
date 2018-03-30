@@ -35,6 +35,7 @@
 [Netty-tcnative (Using OpenSSL or BoringSSL)](https://github.com/netty/netty-tcnative) <br>
 [How To Use Java Cryptography API Securely?](https://github.com/1mansis/java_crypto) <br>
 [Java Cryptography overview](http://tutorials.jenkov.com/java-cryptography/index.html) <br>
+[Agrone](https://github.com/real-logic/agrona) <br>
 https://github.com/google/guava <br>
 https://projectlombok.org/ <br>
 https://github.com/resilience4j/resilience4j <br>
