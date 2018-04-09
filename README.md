@@ -44,6 +44,7 @@ http://fastutil.di.unimi.it/ <br>
 https://github.com/JCTools/JCTools <br>
 https://www.eclipse.org/collections/ <br>
 https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/ <br>
+[JPoint 2018 videos](https://www.youtube.com/playlist?list=PLVe-2wcL84b_b3GZR4CCOy3rxNfvKi9ns) <br>
 
 # Python #
 [Python](https://www.python.org/) <br>
